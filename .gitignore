@@ -10,3 +10,6 @@ bin/
 # Visual Studio (and code)
 .vs/
 .vscode/
+
+#Exclude .haxelibs folder if present
+.haxelib/*
